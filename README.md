@@ -1,1 +1,1 @@
-# This repository about machine learning algorithms.
+# Polyfins ML Internship 2023 for Diganto

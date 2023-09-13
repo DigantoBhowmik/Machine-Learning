@@ -1,6 +1,6 @@
 # Predicting California Housing Prices using Supervised Regression Methods
 
-In this project, we aimed to predict housing prices in various districts across California using several supervised regression algorithms. We utilized the California Housing Prices dataset sourced from Kaggle, which provides valuable information on district-specific attributes such as population, median income, and median housing price.
+In this project, I aimed to predict housing prices in various districts across California using several supervised regression algorithms. I utilized the California Housing Prices dataset sourced from Kaggle, which provides valuable information on district-specific attributes such as population, median income, and median housing price.
 
 # California Housing dataset
 

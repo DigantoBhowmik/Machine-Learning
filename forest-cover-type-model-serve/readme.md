@@ -1,7 +1,7 @@
 # Forest Cover Type Model Serve
 
 # Introduction:
-This documentation outlines the design and usage of the Forest Cover Type Prediction Backend API, which serves three supervised classification models for predicting forest cover types based on the Forest Cover Type Prediction dataset. The API provides endpoints to access the top classifier, 2nd best classifier, and the ensemble classifier.
+This project about the Forest Cover Type Prediction Backend API, which serves three supervised classification models for predicting forest cover types based on the Forest Cover Type Prediction dataset. The API provides endpoints to access the top classifier, 2nd best classifier, and the ensemble classifier.
 
 # Endpoints:
 
